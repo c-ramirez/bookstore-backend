@@ -1,2 +1,2 @@
 # bookstore-backend
-backend for bookstore application
+backend for bookstore application using spring boot
